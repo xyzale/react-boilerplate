@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "test"
+    "test": "jest ./test"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,12 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1"
+    "babel-preset-stage-2": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "react-test-renderer": "^16.4.0"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./test/enzyme.setup.js"
   }
 }
