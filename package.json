@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/xyzale/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/xyzale/react-boilerplate#readme"
+  "homepage": "https://github.com/xyzale/react-boilerplate#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
 }
