@@ -1,0 +1,26 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate to start your react application",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xyzale/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate"
+  ],
+  "author": "Alessio Pieruccetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyzale/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/xyzale/react-boilerplate#readme"
+}
