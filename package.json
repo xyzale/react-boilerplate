@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/xyzale/react-boilerplate#readme",
   "dependencies": {
+    "jest": "^23.0.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
   },
