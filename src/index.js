@@ -7,4 +7,4 @@ import './styles/style.sass'
 ReactDOM.render(
     <App />,
     document.getElementById('app')
-);
+)
